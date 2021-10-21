@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "G",
+    "keyBindingName": "Key Bind G",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "KeyBindGOnKeyPressed"
+    }
+  }
+}

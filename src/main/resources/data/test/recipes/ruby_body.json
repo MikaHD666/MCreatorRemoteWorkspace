@@ -1,0 +1,39 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test:ruby"
+    },
+    "2": {
+      "item": "test:ruby"
+    },
+    "3": {
+      "item": "test:ruby"
+    },
+    "4": {
+      "item": "test:ruby"
+    },
+    "5": {
+      "item": "test:ruby"
+    },
+    "6": {
+      "item": "test:ruby"
+    },
+    "7": {
+      "item": "test:ruby"
+    },
+    "8": {
+      "item": "test:ruby"
+    }
+  },
+  "result": {
+    "item": "test:ruby_armor_chestplate",
+    "count": 1
+  }
+}

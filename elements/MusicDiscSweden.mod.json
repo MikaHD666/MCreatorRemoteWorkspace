@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "custom_music_disc_2",
+    "name": "Music Disc",
+    "description": "C418 - Sweden",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:sweden"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

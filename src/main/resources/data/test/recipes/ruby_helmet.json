@@ -1,0 +1,29 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "test:ruby"
+    },
+    "1": {
+      "item": "test:ruby"
+    },
+    "2": {
+      "item": "test:ruby"
+    },
+    "3": {
+      "item": "test:ruby"
+    },
+    "5": {
+      "item": "test:ruby"
+    }
+  },
+  "result": {
+    "item": "test:ruby_armor_helmet",
+    "count": 1
+  }
+}

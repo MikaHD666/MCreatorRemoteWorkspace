@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "custom_music_disc_1",
+    "name": "Music Disc",
+    "description": "Ooyy - Come 2gether",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:come2gether"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

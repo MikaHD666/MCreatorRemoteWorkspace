@@ -1,0 +1,20 @@
+{
+  "sweden": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "test:sweden",
+        "stream": false
+      }
+    ]
+  },
+  "come2gether": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "test:ooyy_-_come_2gether",
+        "stream": false
+      }
+    ]
+  }
+}

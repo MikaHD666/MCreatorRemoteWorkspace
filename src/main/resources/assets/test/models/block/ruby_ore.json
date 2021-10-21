@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test:blocks/ruby_ore",
+    "up": "test:blocks/ruby_ore",
+    "north": "test:blocks/ruby_ore",
+    "east": "test:blocks/ruby_ore",
+    "south": "test:blocks/ruby_ore",
+    "west": "test:blocks/ruby_ore",
+    "particle": "test:blocks/ruby_ore"
+  }
+}

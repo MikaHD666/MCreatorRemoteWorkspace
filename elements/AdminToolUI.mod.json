@@ -1,0 +1,145 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 215,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Admin Tool",
+          "color": {
+            "value": -5759972,
+            "falpha": 0.0
+          },
+          "name": "Admin Tool",
+          "x": 115,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Weather Control",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Weather Control",
+          "x": 178,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rainy",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedRainy"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Rainy",
+          "x": 121,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Thunder",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedThunder"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Thunder",
+          "x": 185,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Clear",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedClear"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Clear",
+          "x": 257,
+          "y": 77
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Time",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Time",
+          "x": 203,
+          "y": 109
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Night",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedNight"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Night",
+          "x": 121,
+          "y": 128
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Day",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedDay"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Day",
+          "x": 185,
+          "y": 128
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Noon",
+          "onClick": {
+            "name": "AdminToolUIOnButtonPressedSunset"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Noon",
+          "x": 257,
+          "y": 128
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

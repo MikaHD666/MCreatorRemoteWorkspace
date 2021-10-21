@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Immunity",
+    "splashName": "Splash Potion of Immunity",
+    "lingeringName": "Lingering Potion of Immunity",
+    "arrowName": "Arrow of Immunity",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:ImmunityEffect"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

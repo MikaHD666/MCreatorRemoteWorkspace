@@ -1,0 +1,49 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 183,
+    "height": 130,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Magic Wand",
+          "color": {
+            "value": -16087629,
+            "falpha": 0.0
+          },
+          "name": "Magic Wand",
+          "x": 130,
+          "y": 63
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Give OP Items",
+          "onClick": {
+            "name": "OnButtonPressed"
+          },
+          "width": 90,
+          "height": 20,
+          "name": "Give OP Items",
+          "x": 172,
+          "y": 107
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 15,
+      "sy": 15,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

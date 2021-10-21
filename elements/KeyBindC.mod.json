@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "C",
+    "keyBindingName": "Key Bind C",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "KeyBindCOnKeyPressed"
+    }
+  }
+}

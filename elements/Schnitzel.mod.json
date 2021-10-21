@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "schnitzel",
+    "customModelName": "Normal",
+    "name": "Schnitzel",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "A fresh \"Schnitzel\" from Germany"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.5,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "SchnitzelFoodEaten"
+    }
+  }
+}
